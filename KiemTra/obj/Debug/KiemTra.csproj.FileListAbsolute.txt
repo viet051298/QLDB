@@ -1,0 +1,34 @@
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\DATA\nhom.txt
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+C:\Users\USER\source\repos\KiemTra\KiemTra\bin\Debug\DATA\lienlac.txt
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Addnhom.resources
+C:\Users\USER\source\repos\KiemTra\KiemTra\obj\Debug\KiemTra.Addlienlac.resources
+D:\dot net\KiemTra\KiemTra\bin\Debug\DATA\lienlac.txt
+D:\dot net\KiemTra\KiemTra\bin\Debug\DATA\nhom.txt
+D:\dot net\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+D:\dot net\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+D:\dot net\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.csprojAssemblyReference.cache
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.Addlienlac.resources
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.Addnhom.resources
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.Form2.resources
+D:\dot net\KiemTra\KiemTra\bin\Debug\EntityFramework.dll
+D:\dot net\KiemTra\KiemTra\bin\Debug\EntityFramework.SqlServer.dll
+D:\dot net\KiemTra\KiemTra\bin\Debug\EntityFramework.xml
+D:\dot net\KiemTra\KiemTra\bin\Debug\EntityFramework.SqlServer.xml
+D:\dot net\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CopyComplete
